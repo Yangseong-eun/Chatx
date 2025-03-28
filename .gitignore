@@ -1,0 +1,41 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.user
+*.userprefs
+*.log
+*.obj
+*.pdb
+*.idb
+*.aps
+*.ncb
+*.cache
+*.db
+*.sublime-workspace
+*.sublime-project
+
+# Ignore build outputs
+Build/
+
+# Ignore by default, can be checked in if needed
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.uasset
+*.umap
+
+# Project file backups
+*.tmp
+*.bak
+
+# Optional
+# !Content/       <-- 주의: 소스/콘텐츠는 반드시 커밋해야 하므로 예외 처리
